@@ -1,4 +1,4 @@
-package: github.com/squeed/prometheus-tor
+package: github.com/gabbifish/prometheus-tor
 import:
     - package: github.com/prometheus/client_golang
       version: 0.8.0
